@@ -12,4 +12,7 @@
   * [4.1 成交订单导入](4/41-cheng-jiao-que-quan-dan-que-ren.md)
   * [4.2 成交订单审核](4/42-cheng-jiao-ding-dan-shen-he.md)
   * [4.3 成交订单编辑](4/43-cheng-jiao-ding-dan-bian-ji.md)
+* [5. 代理公司充佣宝开户](5.md)
+  * [5.1 资料收集](5/51-chong-yong-bao-zi-liao-shou-ji.md)
+* [6](6.md)
 
