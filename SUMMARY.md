@@ -17,5 +17,6 @@
   * [5.2 资料上传](5/52-zi-liao-shang-chuan.md)
   * [5.3 资料审核](5/53-zi-liao-shen-he.md)
   * [5.4 开户验证](5/54-kai-hu-yan-zheng.md)
-* [6](6.md)
+* [6. 代理充佣宝申请](6.md)
+  * [6.1 订单申请](6/61-ding-dan-shen-qing.md)
 
