@@ -15,5 +15,6 @@
 * [5. 代理公司充佣宝开户](5.md)
   * [5.1 资料收集](5/51-chong-yong-bao-zi-liao-shou-ji.md)
   * [5.2 资料上传](5/52-zi-liao-shang-chuan.md)
+  * [5.3 资料审核](5/53-zi-liao-shen-he.md)
 * [6](6.md)
 
