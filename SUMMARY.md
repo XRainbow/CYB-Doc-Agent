@@ -19,5 +19,6 @@
   * [5.4 开户验证](5/54-kai-hu-yan-zheng.md)
 * [6. 代理充佣宝申请](6.md)
   * [6.1 订单申请](6/61-ding-dan-shen-qing.md)
-  * [6.2 订单审核](6/62-ding-dan-shen-he.md)
+  * [6.2 订单签约](6/62-ding-dan-qian-yue.md)
+  * [6.3 订单审核](6/62-ding-dan-shen-he.md)
 
